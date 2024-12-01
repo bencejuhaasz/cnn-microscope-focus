@@ -2,11 +2,18 @@ import os
 import numpy as np
 import pandas as pd
 from PIL import Image
+import tensorflow as tf
 from sklearn.model_selection import train_test_split
 from tensorflow.keras.layers import BatchNormalization
 from tensorflow.keras.models import Model
 from tensorflow.keras.layers import Input, Conv2D, Flatten, Dense, MaxPooling2D, Dropout
 from tensorflow.keras.optimizers import Adam
+
+
+from tensorflow.keras.callbacks import TensorBoard
+
+tensorboard_cb = TensorBoard(log_dir='./logs', histogram_freq=1)
+
 
 # Paths
 IMAGE_DIR = "data/train_data"  # Directory containing all the image files
@@ -49,6 +56,7 @@ X, y = prepare_data(train_df, IMAGE_DIR)
 # Split into training and validation sets
 X_train, X_val, y_train, y_val = train_test_split(X, y, test_size=0.2, random_state=42)
 
+
 # from tensorflow.keras.regularizers import l2
 from tensorflow.keras.layers import Conv2D, MaxPooling2D, Flatten, Dense, Dropout, Input
 from tensorflow.keras.models import Model
@@ -63,22 +71,22 @@ def build_model(input_shape):
     # First Convolutional Block
     x = Conv2D(32, (3, 3), activation='relu', kernel_regularizer=l2(0.001))(inputs)
     x = MaxPooling2D((2, 2))(x)
-    x = Dropout(0.4)(x)  # Dropout layer
+    x = Dropout(0.2)(x)  # Dropout layer
 
     # Second Convolutional Block
     x = Conv2D(64, (3, 3), activation='relu', kernel_regularizer=l2(0.001))(x)
     x = MaxPooling2D((2, 2))(x)
-    x = Dropout(0.5)(x)  # Dropout layer
+    x = Dropout(0.4)(x)  # Dropout layer
 
     # Third Convolutional Block
     x = Conv2D(128, (3, 3), activation='relu', kernel_regularizer=l2(0.001))(x)
     x = MaxPooling2D((2, 2))(x)
-    x = Dropout(0.5)(x)  # Dropout layer
+    x = Dropout(0.4)(x)  # Dropout layer
 
     # Fully Connected Layers
     x = Flatten()(x)
     x = Dense(256, activation='relu', kernel_regularizer=l2(0.001))(x)  # Larger Dense layer
-    x = Dropout(0.7)(x)  # Stronger regularization here
+    x = Dropout(0.5)(x)  # Stronger regularization here
 
     # Output Layer
     outputs = Dense(1, activation='linear')(x)  # Regression output
@@ -104,20 +112,21 @@ lr_scheduler = ReduceLROnPlateau(
     monitor='val_loss',
     factor=0.8,  # Less aggressive reduction
     patience=30,  # Reduce LR after 10 epochs of stagnation
-    min_lr=0.0001  # Minimum learning rate
+    min_lr=0.00001  # Minimum learning rate
 )
 
 
 # Train the model
 try:
-    history = model.fit(
-        X_train, y_train,
-        validation_data=(X_val, y_val),
-        epochs=3000,
-        batch_size=16,
-        verbose=1,
-        callbacks=[lr_scheduler]
-    )
+    with tf.device('/GPU:0'):
+        history = model.fit(
+            X_train, y_train,
+            validation_data=(X_val, y_val),
+            epochs=30000,
+            batch_size=16,
+            verbose=1,
+            callbacks=[lr_scheduler,tensorboard_cb]
+        )
 finally:
     import time
 

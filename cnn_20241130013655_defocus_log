@@ -1,0 +1,979 @@
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5610 - mae: 0.7938 - val_loss: 5.1941 - val_mae: 1.4115 - learning_rate: 1.0000e-04
+Epoch 1379/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.6243 - mae: 0.8044 - val_loss: 5.1637 - val_mae: 1.4112 - learning_rate: 1.0000e-04
+Epoch 1380/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.6948 - mae: 0.8462 - val_loss: 5.3348 - val_mae: 1.4444 - learning_rate: 1.0000e-04
+Epoch 1381/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5021 - mae: 0.7584 - val_loss: 5.2165 - val_mae: 1.4311 - learning_rate: 1.0000e-04
+Epoch 1382/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.6551 - mae: 0.7925 - val_loss: 5.2243 - val_mae: 1.4144 - learning_rate: 1.0000e-04
+Epoch 1383/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.6780 - mae: 0.8186 - val_loss: 5.3674 - val_mae: 1.4232 - learning_rate: 1.0000e-04
+Epoch 1384/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5066 - mae: 0.7695 - val_loss: 5.3905 - val_mae: 1.4318 - learning_rate: 1.0000e-04
+Epoch 1385/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.4781 - mae: 0.7622 - val_loss: 5.3730 - val_mae: 1.4431 - learning_rate: 1.0000e-04
+Epoch 1386/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5540 - mae: 0.8050 - val_loss: 5.2965 - val_mae: 1.4112 - learning_rate: 1.0000e-04
+Epoch 1387/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.6639 - mae: 0.8408 - val_loss: 5.5188 - val_mae: 1.4466 - learning_rate: 1.0000e-04
+Epoch 1388/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.6226 - mae: 0.8146 - val_loss: 5.3509 - val_mae: 1.4402 - learning_rate: 1.0000e-04
+Epoch 1389/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.6850 - mae: 0.8507 - val_loss: 5.2497 - val_mae: 1.4379 - learning_rate: 1.0000e-04
+Epoch 1390/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.6497 - mae: 0.8420 - val_loss: 5.3769 - val_mae: 1.4352 - learning_rate: 1.0000e-04
+Epoch 1391/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5956 - mae: 0.7994 - val_loss: 5.1660 - val_mae: 1.4054 - learning_rate: 1.0000e-04
+Epoch 1392/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.6482 - mae: 0.8226 - val_loss: 5.3405 - val_mae: 1.4314 - learning_rate: 1.0000e-04
+Epoch 1393/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5193 - mae: 0.7783 - val_loss: 5.2880 - val_mae: 1.4263 - learning_rate: 1.0000e-04
+Epoch 1394/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.6223 - mae: 0.8218 - val_loss: 5.1215 - val_mae: 1.4099 - learning_rate: 1.0000e-04
+Epoch 1395/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5489 - mae: 0.7793 - val_loss: 5.0102 - val_mae: 1.3939 - learning_rate: 1.0000e-04
+Epoch 1396/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5706 - mae: 0.7912 - val_loss: 5.0430 - val_mae: 1.4036 - learning_rate: 1.0000e-04
+Epoch 1397/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.6140 - mae: 0.8059 - val_loss: 5.2262 - val_mae: 1.4267 - learning_rate: 1.0000e-04
+Epoch 1398/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.4750 - mae: 0.7625 - val_loss: 5.1601 - val_mae: 1.4123 - learning_rate: 1.0000e-04
+Epoch 1399/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 18ms/step - loss: 1.6367 - mae: 0.8086 - val_loss: 5.2250 - val_mae: 1.4143 - learning_rate: 1.0000e-04
+Epoch 1400/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5483 - mae: 0.7969 - val_loss: 5.5330 - val_mae: 1.4630 - learning_rate: 1.0000e-04
+Epoch 1401/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.6418 - mae: 0.8271 - val_loss: 5.0928 - val_mae: 1.4127 - learning_rate: 1.0000e-04
+Epoch 1402/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.6067 - mae: 0.7894 - val_loss: 5.1143 - val_mae: 1.4224 - learning_rate: 1.0000e-04
+Epoch 1403/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.6336 - mae: 0.8233 - val_loss: 5.1192 - val_mae: 1.4080 - learning_rate: 1.0000e-04
+Epoch 1404/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.6131 - mae: 0.8137 - val_loss: 5.2117 - val_mae: 1.4148 - learning_rate: 1.0000e-04
+Epoch 1405/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.6253 - mae: 0.8341 - val_loss: 5.2714 - val_mae: 1.4222 - learning_rate: 1.0000e-04
+Epoch 1406/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.7008 - mae: 0.8295 - val_loss: 5.1562 - val_mae: 1.4069 - learning_rate: 1.0000e-04
+Epoch 1407/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.4682 - mae: 0.7594 - val_loss: 5.0428 - val_mae: 1.4354 - learning_rate: 1.0000e-04
+Epoch 1408/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5433 - mae: 0.7992 - val_loss: 5.1927 - val_mae: 1.4130 - learning_rate: 1.0000e-04
+Epoch 1409/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.6842 - mae: 0.8464 - val_loss: 5.1038 - val_mae: 1.3861 - learning_rate: 1.0000e-04
+Epoch 1410/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.6764 - mae: 0.8514 - val_loss: 5.2049 - val_mae: 1.4162 - learning_rate: 1.0000e-04
+Epoch 1411/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5860 - mae: 0.7805 - val_loss: 5.2041 - val_mae: 1.4131 - learning_rate: 1.0000e-04
+Epoch 1412/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5283 - mae: 0.7889 - val_loss: 5.1583 - val_mae: 1.4078 - learning_rate: 1.0000e-04
+Epoch 1413/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.6945 - mae: 0.8319 - val_loss: 5.2900 - val_mae: 1.4307 - learning_rate: 1.0000e-04
+Epoch 1414/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.6562 - mae: 0.8406 - val_loss: 5.1353 - val_mae: 1.4229 - learning_rate: 1.0000e-04
+Epoch 1415/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.8099 - mae: 0.8600 - val_loss: 5.1777 - val_mae: 1.4289 - learning_rate: 1.0000e-04
+Epoch 1416/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.6480 - mae: 0.8248 - val_loss: 5.2440 - val_mae: 1.4238 - learning_rate: 1.0000e-04
+Epoch 1417/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5925 - mae: 0.8185 - val_loss: 5.3177 - val_mae: 1.4406 - learning_rate: 1.0000e-04
+Epoch 1418/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.6180 - mae: 0.8163 - val_loss: 5.2064 - val_mae: 1.4457 - learning_rate: 1.0000e-04
+Epoch 1419/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5042 - mae: 0.7688 - val_loss: 5.2158 - val_mae: 1.4049 - learning_rate: 1.0000e-04
+Epoch 1420/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.6346 - mae: 0.8254 - val_loss: 5.1289 - val_mae: 1.4026 - learning_rate: 1.0000e-04
+Epoch 1421/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5911 - mae: 0.7996 - val_loss: 5.1268 - val_mae: 1.4029 - learning_rate: 1.0000e-04
+Epoch 1422/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5268 - mae: 0.7860 - val_loss: 5.2777 - val_mae: 1.4184 - learning_rate: 1.0000e-04
+Epoch 1423/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.6659 - mae: 0.8529 - val_loss: 5.1413 - val_mae: 1.3865 - learning_rate: 1.0000e-04
+Epoch 1424/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5802 - mae: 0.8060 - val_loss: 5.4192 - val_mae: 1.4729 - learning_rate: 1.0000e-04
+Epoch 1425/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5675 - mae: 0.7896 - val_loss: 5.2818 - val_mae: 1.4197 - learning_rate: 1.0000e-04
+Epoch 1426/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5616 - mae: 0.7880 - val_loss: 5.3498 - val_mae: 1.4399 - learning_rate: 1.0000e-04
+Epoch 1427/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.6330 - mae: 0.8043 - val_loss: 5.1416 - val_mae: 1.4184 - learning_rate: 1.0000e-04
+Epoch 1428/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.7627 - mae: 0.8498 - val_loss: 5.3457 - val_mae: 1.4339 - learning_rate: 1.0000e-04
+Epoch 1429/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.6446 - mae: 0.8350 - val_loss: 5.4203 - val_mae: 1.4488 - learning_rate: 1.0000e-04
+Epoch 1430/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5591 - mae: 0.8152 - val_loss: 5.1970 - val_mae: 1.4324 - learning_rate: 1.0000e-04
+Epoch 1431/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5391 - mae: 0.7966 - val_loss: 5.2910 - val_mae: 1.4443 - learning_rate: 1.0000e-04
+Epoch 1432/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5473 - mae: 0.7984 - val_loss: 5.2759 - val_mae: 1.4061 - learning_rate: 1.0000e-04
+Epoch 1433/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.6224 - mae: 0.8187 - val_loss: 5.3669 - val_mae: 1.4368 - learning_rate: 1.0000e-04
+Epoch 1434/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.6833 - mae: 0.8495 - val_loss: 5.1531 - val_mae: 1.4121 - learning_rate: 1.0000e-04
+Epoch 1435/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5299 - mae: 0.8075 - val_loss: 5.2526 - val_mae: 1.4147 - learning_rate: 1.0000e-04
+Epoch 1436/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.7431 - mae: 0.8434 - val_loss: 5.2358 - val_mae: 1.4226 - learning_rate: 1.0000e-04
+Epoch 1437/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.4783 - mae: 0.7615 - val_loss: 5.3561 - val_mae: 1.4649 - learning_rate: 1.0000e-04
+Epoch 1438/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.6840 - mae: 0.8590 - val_loss: 5.1042 - val_mae: 1.4246 - learning_rate: 1.0000e-04
+Epoch 1439/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.6618 - mae: 0.8466 - val_loss: 5.1144 - val_mae: 1.4276 - learning_rate: 1.0000e-04
+Epoch 1440/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.6760 - mae: 0.8341 - val_loss: 5.2770 - val_mae: 1.4296 - learning_rate: 1.0000e-04
+Epoch 1441/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.6361 - mae: 0.8119 - val_loss: 5.1390 - val_mae: 1.4139 - learning_rate: 1.0000e-04
+Epoch 1442/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.6426 - mae: 0.8197 - val_loss: 5.1909 - val_mae: 1.4264 - learning_rate: 1.0000e-04
+Epoch 1443/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.4270 - mae: 0.7292 - val_loss: 5.3120 - val_mae: 1.4571 - learning_rate: 1.0000e-04
+Epoch 1444/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.6121 - mae: 0.7995 - val_loss: 5.2767 - val_mae: 1.4235 - learning_rate: 1.0000e-04
+Epoch 1445/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5553 - mae: 0.7975 - val_loss: 5.1857 - val_mae: 1.4240 - learning_rate: 1.0000e-04
+Epoch 1446/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5069 - mae: 0.7829 - val_loss: 5.2191 - val_mae: 1.4383 - learning_rate: 1.0000e-04
+Epoch 1447/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5453 - mae: 0.7953 - val_loss: 5.1959 - val_mae: 1.4167 - learning_rate: 1.0000e-04
+Epoch 1448/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5482 - mae: 0.7943 - val_loss: 5.1976 - val_mae: 1.4173 - learning_rate: 1.0000e-04
+Epoch 1449/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5293 - mae: 0.7663 - val_loss: 5.1587 - val_mae: 1.4209 - learning_rate: 1.0000e-04
+Epoch 1450/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.7197 - mae: 0.8336 - val_loss: 5.1583 - val_mae: 1.4109 - learning_rate: 1.0000e-04
+Epoch 1451/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.4700 - mae: 0.7617 - val_loss: 5.2015 - val_mae: 1.4418 - learning_rate: 1.0000e-04
+Epoch 1452/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.4767 - mae: 0.7667 - val_loss: 5.2551 - val_mae: 1.4286 - learning_rate: 1.0000e-04
+Epoch 1453/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.6153 - mae: 0.7871 - val_loss: 5.1279 - val_mae: 1.3954 - learning_rate: 1.0000e-04
+Epoch 1454/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5864 - mae: 0.7939 - val_loss: 5.2466 - val_mae: 1.4192 - learning_rate: 1.0000e-04
+Epoch 1455/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5857 - mae: 0.8008 - val_loss: 5.0538 - val_mae: 1.4054 - learning_rate: 1.0000e-04
+Epoch 1456/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5508 - mae: 0.7866 - val_loss: 5.1093 - val_mae: 1.4042 - learning_rate: 1.0000e-04
+Epoch 1457/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5776 - mae: 0.7799 - val_loss: 5.3410 - val_mae: 1.4302 - learning_rate: 1.0000e-04
+Epoch 1458/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5715 - mae: 0.7951 - val_loss: 5.2696 - val_mae: 1.4020 - learning_rate: 1.0000e-04
+Epoch 1459/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.7180 - mae: 0.8354 - val_loss: 5.2438 - val_mae: 1.4101 - learning_rate: 1.0000e-04
+Epoch 1460/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.6780 - mae: 0.8397 - val_loss: 5.3599 - val_mae: 1.4367 - learning_rate: 1.0000e-04
+Epoch 1461/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.6496 - mae: 0.8318 - val_loss: 5.2185 - val_mae: 1.3959 - learning_rate: 1.0000e-04
+Epoch 1462/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5647 - mae: 0.7951 - val_loss: 5.2418 - val_mae: 1.4133 - learning_rate: 1.0000e-04
+Epoch 1463/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.7001 - mae: 0.8594 - val_loss: 5.3150 - val_mae: 1.4040 - learning_rate: 1.0000e-04
+Epoch 1464/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5694 - mae: 0.8136 - val_loss: 5.3207 - val_mae: 1.4499 - learning_rate: 1.0000e-04
+Epoch 1465/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.6239 - mae: 0.8324 - val_loss: 5.3438 - val_mae: 1.4432 - learning_rate: 1.0000e-04
+Epoch 1466/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.6121 - mae: 0.8056 - val_loss: 5.2434 - val_mae: 1.4171 - learning_rate: 1.0000e-04
+Epoch 1467/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.7033 - mae: 0.8366 - val_loss: 5.3189 - val_mae: 1.4231 - learning_rate: 1.0000e-04
+Epoch 1468/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.6578 - mae: 0.8215 - val_loss: 5.1948 - val_mae: 1.4114 - learning_rate: 1.0000e-04
+Epoch 1469/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.7262 - mae: 0.8431 - val_loss: 5.3181 - val_mae: 1.4139 - learning_rate: 1.0000e-04
+Epoch 1470/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5887 - mae: 0.7917 - val_loss: 5.0400 - val_mae: 1.3818 - learning_rate: 1.0000e-04
+Epoch 1471/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.4612 - mae: 0.7443 - val_loss: 5.2629 - val_mae: 1.4289 - learning_rate: 1.0000e-04
+Epoch 1472/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.6593 - mae: 0.8315 - val_loss: 5.1772 - val_mae: 1.4209 - learning_rate: 1.0000e-04
+Epoch 1473/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.4003 - mae: 0.7228 - val_loss: 5.5814 - val_mae: 1.4476 - learning_rate: 1.0000e-04
+Epoch 1474/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.6272 - mae: 0.8358 - val_loss: 5.3094 - val_mae: 1.4097 - learning_rate: 1.0000e-04
+Epoch 1475/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5885 - mae: 0.8243 - val_loss: 5.2360 - val_mae: 1.4208 - learning_rate: 1.0000e-04
+Epoch 1476/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.6360 - mae: 0.8232 - val_loss: 5.2836 - val_mae: 1.4273 - learning_rate: 1.0000e-04
+Epoch 1477/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.4918 - mae: 0.7601 - val_loss: 5.1498 - val_mae: 1.3906 - learning_rate: 1.0000e-04
+Epoch 1478/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5912 - mae: 0.8122 - val_loss: 5.2464 - val_mae: 1.4255 - learning_rate: 1.0000e-04
+Epoch 1479/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5596 - mae: 0.8111 - val_loss: 5.1473 - val_mae: 1.4019 - learning_rate: 1.0000e-04
+Epoch 1480/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5607 - mae: 0.7971 - val_loss: 5.1668 - val_mae: 1.3932 - learning_rate: 1.0000e-04
+Epoch 1481/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5620 - mae: 0.7981 - val_loss: 5.1597 - val_mae: 1.4122 - learning_rate: 1.0000e-04
+Epoch 1482/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5611 - mae: 0.8118 - val_loss: 5.1322 - val_mae: 1.3798 - learning_rate: 1.0000e-04
+Epoch 1483/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5715 - mae: 0.8155 - val_loss: 5.1809 - val_mae: 1.4056 - learning_rate: 1.0000e-04
+Epoch 1484/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5850 - mae: 0.7931 - val_loss: 5.2661 - val_mae: 1.4296 - learning_rate: 1.0000e-04
+Epoch 1485/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5510 - mae: 0.7899 - val_loss: 5.3314 - val_mae: 1.4151 - learning_rate: 1.0000e-04
+Epoch 1486/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5825 - mae: 0.8164 - val_loss: 5.2138 - val_mae: 1.4095 - learning_rate: 1.0000e-04
+Epoch 1487/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.6001 - mae: 0.8173 - val_loss: 5.2461 - val_mae: 1.4216 - learning_rate: 1.0000e-04
+Epoch 1488/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 18ms/step - loss: 1.5873 - mae: 0.8055 - val_loss: 5.2768 - val_mae: 1.4061 - learning_rate: 1.0000e-04
+Epoch 1489/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5755 - mae: 0.8231 - val_loss: 5.3955 - val_mae: 1.4485 - learning_rate: 1.0000e-04
+Epoch 1490/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5222 - mae: 0.7778 - val_loss: 5.3097 - val_mae: 1.4174 - learning_rate: 1.0000e-04
+Epoch 1491/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.6030 - mae: 0.8288 - val_loss: 5.2865 - val_mae: 1.4420 - learning_rate: 1.0000e-04
+Epoch 1492/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5409 - mae: 0.7883 - val_loss: 5.3053 - val_mae: 1.4438 - learning_rate: 1.0000e-04
+Epoch 1493/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.6693 - mae: 0.8008 - val_loss: 5.2247 - val_mae: 1.4055 - learning_rate: 1.0000e-04
+Epoch 1494/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.6251 - mae: 0.8170 - val_loss: 5.2875 - val_mae: 1.4219 - learning_rate: 1.0000e-04
+Epoch 1495/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5927 - mae: 0.8470 - val_loss: 5.3171 - val_mae: 1.4311 - learning_rate: 1.0000e-04
+Epoch 1496/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.4532 - mae: 0.7700 - val_loss: 5.2460 - val_mae: 1.4236 - learning_rate: 1.0000e-04
+Epoch 1497/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5283 - mae: 0.7746 - val_loss: 5.2068 - val_mae: 1.4281 - learning_rate: 1.0000e-04
+Epoch 1498/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.6126 - mae: 0.8055 - val_loss: 5.3426 - val_mae: 1.4317 - learning_rate: 1.0000e-04
+Epoch 1499/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5045 - mae: 0.7919 - val_loss: 5.1715 - val_mae: 1.4052 - learning_rate: 1.0000e-04
+Epoch 1500/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5604 - mae: 0.7943 - val_loss: 5.0309 - val_mae: 1.3937 - learning_rate: 1.0000e-04
+Epoch 1501/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.4993 - mae: 0.7746 - val_loss: 5.1495 - val_mae: 1.4058 - learning_rate: 1.0000e-04
+Epoch 1502/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.6246 - mae: 0.8153 - val_loss: 5.2605 - val_mae: 1.4281 - learning_rate: 1.0000e-04
+Epoch 1503/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.7200 - mae: 0.8538 - val_loss: 5.0961 - val_mae: 1.3993 - learning_rate: 1.0000e-04
+Epoch 1504/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5953 - mae: 0.8123 - val_loss: 5.0346 - val_mae: 1.3851 - learning_rate: 1.0000e-04
+Epoch 1505/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5648 - mae: 0.8001 - val_loss: 5.3413 - val_mae: 1.4371 - learning_rate: 1.0000e-04
+Epoch 1506/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5592 - mae: 0.8294 - val_loss: 5.2935 - val_mae: 1.4524 - learning_rate: 1.0000e-04
+Epoch 1507/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.7192 - mae: 0.8467 - val_loss: 5.2091 - val_mae: 1.4376 - learning_rate: 1.0000e-04
+Epoch 1508/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5655 - mae: 0.7837 - val_loss: 5.2096 - val_mae: 1.4412 - learning_rate: 1.0000e-04
+Epoch 1509/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.6789 - mae: 0.8382 - val_loss: 5.2832 - val_mae: 1.4285 - learning_rate: 1.0000e-04
+Epoch 1510/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5218 - mae: 0.7849 - val_loss: 5.4232 - val_mae: 1.4627 - learning_rate: 1.0000e-04
+Epoch 1511/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5271 - mae: 0.7988 - val_loss: 5.2349 - val_mae: 1.4027 - learning_rate: 1.0000e-04
+Epoch 1512/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.4458 - mae: 0.7610 - val_loss: 5.1728 - val_mae: 1.4074 - learning_rate: 1.0000e-04
+Epoch 1513/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.6136 - mae: 0.8191 - val_loss: 5.3390 - val_mae: 1.4342 - learning_rate: 1.0000e-04
+Epoch 1514/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.4427 - mae: 0.7419 - val_loss: 5.2270 - val_mae: 1.4156 - learning_rate: 1.0000e-04
+Epoch 1515/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.4849 - mae: 0.7732 - val_loss: 5.1983 - val_mae: 1.4073 - learning_rate: 1.0000e-04
+Epoch 1516/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.6127 - mae: 0.8174 - val_loss: 5.1948 - val_mae: 1.4175 - learning_rate: 1.0000e-04
+Epoch 1517/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.6461 - mae: 0.8286 - val_loss: 5.1859 - val_mae: 1.4014 - learning_rate: 1.0000e-04
+Epoch 1518/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5787 - mae: 0.8003 - val_loss: 5.2534 - val_mae: 1.4067 - learning_rate: 1.0000e-04
+Epoch 1519/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.6284 - mae: 0.8148 - val_loss: 5.1519 - val_mae: 1.4037 - learning_rate: 1.0000e-04
+Epoch 1520/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.7232 - mae: 0.8425 - val_loss: 5.2731 - val_mae: 1.4080 - learning_rate: 1.0000e-04
+Epoch 1521/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5469 - mae: 0.7880 - val_loss: 5.2397 - val_mae: 1.4242 - learning_rate: 1.0000e-04
+Epoch 1522/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.3939 - mae: 0.7355 - val_loss: 5.1964 - val_mae: 1.4224 - learning_rate: 1.0000e-04
+Epoch 1523/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5449 - mae: 0.7968 - val_loss: 5.1438 - val_mae: 1.4224 - learning_rate: 1.0000e-04
+Epoch 1524/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.7320 - mae: 0.8472 - val_loss: 5.2854 - val_mae: 1.4149 - learning_rate: 1.0000e-04
+Epoch 1525/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.4856 - mae: 0.7734 - val_loss: 5.3506 - val_mae: 1.4330 - learning_rate: 1.0000e-04
+Epoch 1526/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5232 - mae: 0.7882 - val_loss: 5.2032 - val_mae: 1.4103 - learning_rate: 1.0000e-04
+Epoch 1527/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.4440 - mae: 0.7337 - val_loss: 5.3224 - val_mae: 1.4436 - learning_rate: 1.0000e-04
+Epoch 1528/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.7638 - mae: 0.8503 - val_loss: 5.2729 - val_mae: 1.4286 - learning_rate: 1.0000e-04
+Epoch 1529/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5662 - mae: 0.7952 - val_loss: 5.1025 - val_mae: 1.3912 - learning_rate: 1.0000e-04
+Epoch 1530/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5302 - mae: 0.7897 - val_loss: 5.1285 - val_mae: 1.4151 - learning_rate: 1.0000e-04
+Epoch 1531/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.4970 - mae: 0.7658 - val_loss: 5.2786 - val_mae: 1.4063 - learning_rate: 1.0000e-04
+Epoch 1532/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.7306 - mae: 0.8531 - val_loss: 5.0152 - val_mae: 1.4103 - learning_rate: 1.0000e-04
+Epoch 1533/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5983 - mae: 0.8278 - val_loss: 5.3822 - val_mae: 1.4383 - learning_rate: 1.0000e-04
+Epoch 1534/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.4349 - mae: 0.7516 - val_loss: 5.2929 - val_mae: 1.4184 - learning_rate: 1.0000e-04
+Epoch 1535/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.6135 - mae: 0.8311 - val_loss: 5.1891 - val_mae: 1.4262 - learning_rate: 1.0000e-04
+Epoch 1536/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.7015 - mae: 0.8431 - val_loss: 5.2972 - val_mae: 1.4007 - learning_rate: 1.0000e-04
+Epoch 1537/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5471 - mae: 0.7869 - val_loss: 5.1986 - val_mae: 1.3740 - learning_rate: 1.0000e-04
+Epoch 1538/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.7187 - mae: 0.8273 - val_loss: 5.3221 - val_mae: 1.4236 - learning_rate: 1.0000e-04
+Epoch 1539/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.6555 - mae: 0.8468 - val_loss: 5.3629 - val_mae: 1.4267 - learning_rate: 1.0000e-04
+Epoch 1540/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.6613 - mae: 0.8149 - val_loss: 5.3715 - val_mae: 1.4190 - learning_rate: 1.0000e-04
+Epoch 1541/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.4873 - mae: 0.7752 - val_loss: 5.4771 - val_mae: 1.4215 - learning_rate: 1.0000e-04
+Epoch 1542/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5937 - mae: 0.8169 - val_loss: 5.3573 - val_mae: 1.4261 - learning_rate: 1.0000e-04
+Epoch 1543/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.6711 - mae: 0.8461 - val_loss: 5.1915 - val_mae: 1.4092 - learning_rate: 1.0000e-04
+Epoch 1544/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.6426 - mae: 0.8397 - val_loss: 5.3261 - val_mae: 1.4285 - learning_rate: 1.0000e-04
+Epoch 1545/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.4101 - mae: 0.7670 - val_loss: 5.3407 - val_mae: 1.4205 - learning_rate: 1.0000e-04
+Epoch 1546/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5153 - mae: 0.7735 - val_loss: 5.3476 - val_mae: 1.4229 - learning_rate: 1.0000e-04
+Epoch 1547/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5243 - mae: 0.7729 - val_loss: 5.4077 - val_mae: 1.4387 - learning_rate: 1.0000e-04
+Epoch 1548/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.6332 - mae: 0.8080 - val_loss: 5.4210 - val_mae: 1.4354 - learning_rate: 1.0000e-04
+Epoch 1549/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5673 - mae: 0.8037 - val_loss: 5.3122 - val_mae: 1.4522 - learning_rate: 1.0000e-04
+Epoch 1550/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5047 - mae: 0.7690 - val_loss: 5.2084 - val_mae: 1.4113 - learning_rate: 1.0000e-04
+Epoch 1551/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.4733 - mae: 0.7655 - val_loss: 5.1946 - val_mae: 1.3971 - learning_rate: 1.0000e-04
+Epoch 1552/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.6371 - mae: 0.8125 - val_loss: 5.0670 - val_mae: 1.4050 - learning_rate: 1.0000e-04
+Epoch 1553/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.7033 - mae: 0.8399 - val_loss: 5.4759 - val_mae: 1.4686 - learning_rate: 1.0000e-04
+Epoch 1554/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5150 - mae: 0.7918 - val_loss: 4.9816 - val_mae: 1.4051 - learning_rate: 1.0000e-04
+Epoch 1555/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.6253 - mae: 0.8219 - val_loss: 5.2320 - val_mae: 1.4161 - learning_rate: 1.0000e-04
+Epoch 1556/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5676 - mae: 0.7896 - val_loss: 5.2584 - val_mae: 1.4100 - learning_rate: 1.0000e-04
+Epoch 1557/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5312 - mae: 0.7961 - val_loss: 5.3119 - val_mae: 1.4306 - learning_rate: 1.0000e-04
+Epoch 1558/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.6650 - mae: 0.8289 - val_loss: 5.1055 - val_mae: 1.4026 - learning_rate: 1.0000e-04
+Epoch 1559/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5839 - mae: 0.8073 - val_loss: 5.0265 - val_mae: 1.3844 - learning_rate: 1.0000e-04
+Epoch 1560/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5048 - mae: 0.7981 - val_loss: 5.1842 - val_mae: 1.4225 - learning_rate: 1.0000e-04
+Epoch 1561/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5730 - mae: 0.8105 - val_loss: 5.2059 - val_mae: 1.4093 - learning_rate: 1.0000e-04
+Epoch 1562/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.7144 - mae: 0.8284 - val_loss: 5.2756 - val_mae: 1.4422 - learning_rate: 1.0000e-04
+Epoch 1563/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5255 - mae: 0.7985 - val_loss: 5.3259 - val_mae: 1.4293 - learning_rate: 1.0000e-04
+Epoch 1564/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.6203 - mae: 0.8318 - val_loss: 5.4133 - val_mae: 1.4337 - learning_rate: 1.0000e-04
+Epoch 1565/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.8160 - mae: 0.8760 - val_loss: 5.1454 - val_mae: 1.4065 - learning_rate: 1.0000e-04
+Epoch 1566/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.4783 - mae: 0.7822 - val_loss: 5.0292 - val_mae: 1.3964 - learning_rate: 1.0000e-04
+Epoch 1567/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5191 - mae: 0.7868 - val_loss: 5.0166 - val_mae: 1.3832 - learning_rate: 1.0000e-04
+Epoch 1568/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.6971 - mae: 0.8595 - val_loss: 5.2536 - val_mae: 1.4481 - learning_rate: 1.0000e-04
+Epoch 1569/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.7372 - mae: 0.8358 - val_loss: 5.1627 - val_mae: 1.4274 - learning_rate: 1.0000e-04
+Epoch 1570/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5261 - mae: 0.7808 - val_loss: 5.1864 - val_mae: 1.4204 - learning_rate: 1.0000e-04
+Epoch 1571/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5604 - mae: 0.7954 - val_loss: 5.1152 - val_mae: 1.4090 - learning_rate: 1.0000e-04
+Epoch 1572/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5857 - mae: 0.8100 - val_loss: 5.2935 - val_mae: 1.4197 - learning_rate: 1.0000e-04
+Epoch 1573/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.4681 - mae: 0.7686 - val_loss: 5.1653 - val_mae: 1.4157 - learning_rate: 1.0000e-04
+Epoch 1574/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.6622 - mae: 0.8242 - val_loss: 5.2295 - val_mae: 1.4107 - learning_rate: 1.0000e-04
+Epoch 1575/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.6246 - mae: 0.8324 - val_loss: 5.1479 - val_mae: 1.3966 - learning_rate: 1.0000e-04
+Epoch 1576/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5487 - mae: 0.8019 - val_loss: 5.1943 - val_mae: 1.4163 - learning_rate: 1.0000e-04
+Epoch 1577/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5383 - mae: 0.8016 - val_loss: 5.1594 - val_mae: 1.4194 - learning_rate: 1.0000e-04
+Epoch 1578/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.6585 - mae: 0.8234 - val_loss: 5.2216 - val_mae: 1.4307 - learning_rate: 1.0000e-04
+Epoch 1579/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.6298 - mae: 0.7988 - val_loss: 5.1496 - val_mae: 1.4035 - learning_rate: 1.0000e-04
+Epoch 1580/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.6170 - mae: 0.8229 - val_loss: 5.2070 - val_mae: 1.3964 - learning_rate: 1.0000e-04
+Epoch 1581/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.4764 - mae: 0.7654 - val_loss: 5.1389 - val_mae: 1.3918 - learning_rate: 1.0000e-04
+Epoch 1582/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.4840 - mae: 0.7628 - val_loss: 5.1102 - val_mae: 1.4056 - learning_rate: 1.0000e-04
+Epoch 1583/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.6036 - mae: 0.8125 - val_loss: 5.1781 - val_mae: 1.4079 - learning_rate: 1.0000e-04
+Epoch 1584/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.6584 - mae: 0.8298 - val_loss: 5.1188 - val_mae: 1.4055 - learning_rate: 1.0000e-04
+Epoch 1585/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.4601 - mae: 0.7599 - val_loss: 5.2346 - val_mae: 1.4142 - learning_rate: 1.0000e-04
+Epoch 1586/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.4826 - mae: 0.7711 - val_loss: 5.1506 - val_mae: 1.4026 - learning_rate: 1.0000e-04
+Epoch 1587/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.6054 - mae: 0.8176 - val_loss: 5.2217 - val_mae: 1.4155 - learning_rate: 1.0000e-04
+Epoch 1588/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5703 - mae: 0.8031 - val_loss: 5.1384 - val_mae: 1.3694 - learning_rate: 1.0000e-04
+Epoch 1589/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.4749 - mae: 0.7854 - val_loss: 5.0303 - val_mae: 1.4009 - learning_rate: 1.0000e-04
+Epoch 1590/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5849 - mae: 0.8139 - val_loss: 5.1987 - val_mae: 1.3991 - learning_rate: 1.0000e-04
+Epoch 1591/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5549 - mae: 0.7983 - val_loss: 5.1852 - val_mae: 1.4217 - learning_rate: 1.0000e-04
+Epoch 1592/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5443 - mae: 0.8025 - val_loss: 5.0861 - val_mae: 1.3916 - learning_rate: 1.0000e-04
+Epoch 1593/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5080 - mae: 0.7891 - val_loss: 5.1777 - val_mae: 1.4046 - learning_rate: 1.0000e-04
+Epoch 1594/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.7049 - mae: 0.8617 - val_loss: 5.2489 - val_mae: 1.3869 - learning_rate: 1.0000e-04
+Epoch 1595/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5373 - mae: 0.7934 - val_loss: 5.2040 - val_mae: 1.4102 - learning_rate: 1.0000e-04
+Epoch 1596/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5453 - mae: 0.8002 - val_loss: 5.1946 - val_mae: 1.4266 - learning_rate: 1.0000e-04
+Epoch 1597/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 18ms/step - loss: 1.6339 - mae: 0.8245 - val_loss: 5.1656 - val_mae: 1.3979 - learning_rate: 1.0000e-04
+Epoch 1598/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.6419 - mae: 0.8442 - val_loss: 4.9949 - val_mae: 1.3938 - learning_rate: 1.0000e-04
+Epoch 1599/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.6069 - mae: 0.8298 - val_loss: 5.0481 - val_mae: 1.3998 - learning_rate: 1.0000e-04
+Epoch 1600/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.4160 - mae: 0.7373 - val_loss: 5.1124 - val_mae: 1.3973 - learning_rate: 1.0000e-04
+Epoch 1601/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5661 - mae: 0.7982 - val_loss: 5.2222 - val_mae: 1.3880 - learning_rate: 1.0000e-04
+Epoch 1602/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5489 - mae: 0.7960 - val_loss: 5.1193 - val_mae: 1.4081 - learning_rate: 1.0000e-04
+Epoch 1603/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.6281 - mae: 0.8566 - val_loss: 5.3162 - val_mae: 1.4230 - learning_rate: 1.0000e-04
+Epoch 1604/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.4478 - mae: 0.7480 - val_loss: 5.0316 - val_mae: 1.3628 - learning_rate: 1.0000e-04
+Epoch 1605/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5323 - mae: 0.7913 - val_loss: 5.0915 - val_mae: 1.3979 - learning_rate: 1.0000e-04
+Epoch 1606/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.6115 - mae: 0.7929 - val_loss: 5.0907 - val_mae: 1.3996 - learning_rate: 1.0000e-04
+Epoch 1607/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5456 - mae: 0.7875 - val_loss: 5.0259 - val_mae: 1.3817 - learning_rate: 1.0000e-04
+Epoch 1608/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.6370 - mae: 0.8546 - val_loss: 5.0115 - val_mae: 1.3892 - learning_rate: 1.0000e-04
+Epoch 1609/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.6359 - mae: 0.8278 - val_loss: 5.0836 - val_mae: 1.4108 - learning_rate: 1.0000e-04
+Epoch 1610/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.6534 - mae: 0.8337 - val_loss: 5.1521 - val_mae: 1.4260 - learning_rate: 1.0000e-04
+Epoch 1611/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5268 - mae: 0.7690 - val_loss: 5.1201 - val_mae: 1.3830 - learning_rate: 1.0000e-04
+Epoch 1612/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5177 - mae: 0.7782 - val_loss: 5.2639 - val_mae: 1.4115 - learning_rate: 1.0000e-04
+Epoch 1613/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5687 - mae: 0.8053 - val_loss: 5.3082 - val_mae: 1.4347 - learning_rate: 1.0000e-04
+Epoch 1614/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.6865 - mae: 0.8483 - val_loss: 5.2077 - val_mae: 1.3972 - learning_rate: 1.0000e-04
+Epoch 1615/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5569 - mae: 0.7941 - val_loss: 5.1061 - val_mae: 1.3900 - learning_rate: 1.0000e-04
+Epoch 1616/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.6138 - mae: 0.8289 - val_loss: 5.4141 - val_mae: 1.4323 - learning_rate: 1.0000e-04
+Epoch 1617/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5833 - mae: 0.7993 - val_loss: 5.3081 - val_mae: 1.4172 - learning_rate: 1.0000e-04
+Epoch 1618/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5404 - mae: 0.7912 - val_loss: 5.2897 - val_mae: 1.4071 - learning_rate: 1.0000e-04
+Epoch 1619/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5437 - mae: 0.7948 - val_loss: 5.2548 - val_mae: 1.3963 - learning_rate: 1.0000e-04
+Epoch 1620/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.6089 - mae: 0.8163 - val_loss: 5.3062 - val_mae: 1.4214 - learning_rate: 1.0000e-04
+Epoch 1621/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.6428 - mae: 0.8454 - val_loss: 5.2823 - val_mae: 1.4078 - learning_rate: 1.0000e-04
+Epoch 1622/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5639 - mae: 0.8214 - val_loss: 5.4635 - val_mae: 1.4598 - learning_rate: 1.0000e-04
+Epoch 1623/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5860 - mae: 0.8287 - val_loss: 5.2338 - val_mae: 1.4102 - learning_rate: 1.0000e-04
+Epoch 1624/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5448 - mae: 0.8028 - val_loss: 5.2553 - val_mae: 1.4299 - learning_rate: 1.0000e-04
+Epoch 1625/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5205 - mae: 0.7990 - val_loss: 5.2515 - val_mae: 1.4079 - learning_rate: 1.0000e-04
+Epoch 1626/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5365 - mae: 0.7802 - val_loss: 5.1425 - val_mae: 1.4135 - learning_rate: 1.0000e-04
+Epoch 1627/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.6303 - mae: 0.8284 - val_loss: 5.2020 - val_mae: 1.4152 - learning_rate: 1.0000e-04
+Epoch 1628/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5001 - mae: 0.7567 - val_loss: 5.2133 - val_mae: 1.3990 - learning_rate: 1.0000e-04
+Epoch 1629/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.4323 - mae: 0.7491 - val_loss: 5.0518 - val_mae: 1.3854 - learning_rate: 1.0000e-04
+Epoch 1630/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5857 - mae: 0.8020 - val_loss: 5.3755 - val_mae: 1.4265 - learning_rate: 1.0000e-04
+Epoch 1631/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5666 - mae: 0.8044 - val_loss: 5.1818 - val_mae: 1.3948 - learning_rate: 1.0000e-04
+Epoch 1632/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.4987 - mae: 0.7643 - val_loss: 5.2243 - val_mae: 1.4019 - learning_rate: 1.0000e-04
+Epoch 1633/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5779 - mae: 0.8157 - val_loss: 5.1714 - val_mae: 1.4115 - learning_rate: 1.0000e-04
+Epoch 1634/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.6342 - mae: 0.8261 - val_loss: 5.2218 - val_mae: 1.4053 - learning_rate: 1.0000e-04
+Epoch 1635/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.6761 - mae: 0.8127 - val_loss: 5.0318 - val_mae: 1.3831 - learning_rate: 1.0000e-04
+Epoch 1636/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.6423 - mae: 0.8260 - val_loss: 5.0331 - val_mae: 1.3881 - learning_rate: 1.0000e-04
+Epoch 1637/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.6597 - mae: 0.8235 - val_loss: 5.1386 - val_mae: 1.3898 - learning_rate: 1.0000e-04
+Epoch 1638/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5649 - mae: 0.8168 - val_loss: 5.1852 - val_mae: 1.4078 - learning_rate: 1.0000e-04
+Epoch 1639/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5605 - mae: 0.7954 - val_loss: 5.4119 - val_mae: 1.4273 - learning_rate: 1.0000e-04
+Epoch 1640/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.6698 - mae: 0.8458 - val_loss: 5.2155 - val_mae: 1.4216 - learning_rate: 1.0000e-04
+Epoch 1641/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.6639 - mae: 0.8205 - val_loss: 5.1416 - val_mae: 1.4042 - learning_rate: 1.0000e-04
+Epoch 1642/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5443 - mae: 0.8018 - val_loss: 5.0368 - val_mae: 1.3846 - learning_rate: 1.0000e-04
+Epoch 1643/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.4886 - mae: 0.7799 - val_loss: 5.0970 - val_mae: 1.4059 - learning_rate: 1.0000e-04
+Epoch 1644/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5232 - mae: 0.7955 - val_loss: 5.2174 - val_mae: 1.4152 - learning_rate: 1.0000e-04
+Epoch 1645/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.6043 - mae: 0.8197 - val_loss: 5.0032 - val_mae: 1.4018 - learning_rate: 1.0000e-04
+Epoch 1646/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.4966 - mae: 0.7833 - val_loss: 5.2280 - val_mae: 1.4193 - learning_rate: 1.0000e-04
+Epoch 1647/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.6781 - mae: 0.8279 - val_loss: 5.0933 - val_mae: 1.3929 - learning_rate: 1.0000e-04
+Epoch 1648/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5411 - mae: 0.8047 - val_loss: 5.1839 - val_mae: 1.3962 - learning_rate: 1.0000e-04
+Epoch 1649/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.4884 - mae: 0.7916 - val_loss: 5.0803 - val_mae: 1.3837 - learning_rate: 1.0000e-04
+Epoch 1650/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.6163 - mae: 0.8259 - val_loss: 5.3455 - val_mae: 1.4005 - learning_rate: 1.0000e-04
+Epoch 1651/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5197 - mae: 0.7945 - val_loss: 5.3353 - val_mae: 1.4268 - learning_rate: 1.0000e-04
+Epoch 1652/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.6906 - mae: 0.8652 - val_loss: 5.3216 - val_mae: 1.4091 - learning_rate: 1.0000e-04
+Epoch 1653/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 18ms/step - loss: 1.5416 - mae: 0.7866 - val_loss: 5.1376 - val_mae: 1.4231 - learning_rate: 1.0000e-04
+Epoch 1654/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.4604 - mae: 0.7659 - val_loss: 5.1643 - val_mae: 1.3914 - learning_rate: 1.0000e-04
+Epoch 1655/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5257 - mae: 0.8053 - val_loss: 5.1317 - val_mae: 1.3930 - learning_rate: 1.0000e-04
+Epoch 1656/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5233 - mae: 0.7958 - val_loss: 5.1253 - val_mae: 1.4065 - learning_rate: 1.0000e-04
+Epoch 1657/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.4834 - mae: 0.7690 - val_loss: 5.3864 - val_mae: 1.4665 - learning_rate: 1.0000e-04
+Epoch 1658/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.6050 - mae: 0.8070 - val_loss: 5.1163 - val_mae: 1.3878 - learning_rate: 1.0000e-04
+Epoch 1659/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5547 - mae: 0.8044 - val_loss: 5.0941 - val_mae: 1.3783 - learning_rate: 1.0000e-04
+Epoch 1660/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.6184 - mae: 0.8222 - val_loss: 5.2111 - val_mae: 1.4026 - learning_rate: 1.0000e-04
+Epoch 1661/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.4735 - mae: 0.7739 - val_loss: 5.1505 - val_mae: 1.4022 - learning_rate: 1.0000e-04
+Epoch 1662/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5313 - mae: 0.7891 - val_loss: 5.0357 - val_mae: 1.3872 - learning_rate: 1.0000e-04
+Epoch 1663/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.6284 - mae: 0.8327 - val_loss: 5.0399 - val_mae: 1.3952 - learning_rate: 1.0000e-04
+Epoch 1664/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5841 - mae: 0.8142 - val_loss: 5.0963 - val_mae: 1.3821 - learning_rate: 1.0000e-04
+Epoch 1665/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.6288 - mae: 0.8366 - val_loss: 5.0728 - val_mae: 1.4171 - learning_rate: 1.0000e-04
+Epoch 1666/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5831 - mae: 0.8301 - val_loss: 4.9984 - val_mae: 1.3915 - learning_rate: 1.0000e-04
+Epoch 1667/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.4659 - mae: 0.7729 - val_loss: 5.1052 - val_mae: 1.4040 - learning_rate: 1.0000e-04
+Epoch 1668/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5829 - mae: 0.8226 - val_loss: 5.1156 - val_mae: 1.3824 - learning_rate: 1.0000e-04
+Epoch 1669/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5262 - mae: 0.7719 - val_loss: 5.0993 - val_mae: 1.3732 - learning_rate: 1.0000e-04
+Epoch 1670/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5918 - mae: 0.8245 - val_loss: 5.1980 - val_mae: 1.4174 - learning_rate: 1.0000e-04
+Epoch 1671/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.4814 - mae: 0.7732 - val_loss: 5.1240 - val_mae: 1.4124 - learning_rate: 1.0000e-04
+Epoch 1672/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5649 - mae: 0.8174 - val_loss: 5.1824 - val_mae: 1.4057 - learning_rate: 1.0000e-04
+Epoch 1673/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.4550 - mae: 0.7525 - val_loss: 5.1659 - val_mae: 1.4306 - learning_rate: 1.0000e-04
+Epoch 1674/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.6023 - mae: 0.8185 - val_loss: 5.0084 - val_mae: 1.3870 - learning_rate: 1.0000e-04
+Epoch 1675/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5705 - mae: 0.8032 - val_loss: 4.9610 - val_mae: 1.3864 - learning_rate: 1.0000e-04
+Epoch 1676/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.7631 - mae: 0.8645 - val_loss: 5.1454 - val_mae: 1.4050 - learning_rate: 1.0000e-04
+Epoch 1677/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.4256 - mae: 0.7596 - val_loss: 5.1989 - val_mae: 1.3994 - learning_rate: 1.0000e-04
+Epoch 1678/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5515 - mae: 0.7840 - val_loss: 5.2348 - val_mae: 1.4231 - learning_rate: 1.0000e-04
+Epoch 1679/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5153 - mae: 0.7789 - val_loss: 4.9619 - val_mae: 1.3743 - learning_rate: 1.0000e-04
+Epoch 1680/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5185 - mae: 0.8063 - val_loss: 5.1033 - val_mae: 1.4085 - learning_rate: 1.0000e-04
+Epoch 1681/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.6236 - mae: 0.8333 - val_loss: 5.0100 - val_mae: 1.3599 - learning_rate: 1.0000e-04
+Epoch 1682/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.4201 - mae: 0.7638 - val_loss: 5.1921 - val_mae: 1.3974 - learning_rate: 1.0000e-04
+Epoch 1683/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.6310 - mae: 0.8025 - val_loss: 5.2198 - val_mae: 1.4006 - learning_rate: 1.0000e-04
+Epoch 1684/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.6109 - mae: 0.8005 - val_loss: 5.1760 - val_mae: 1.3952 - learning_rate: 1.0000e-04
+Epoch 1685/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5476 - mae: 0.8024 - val_loss: 5.0667 - val_mae: 1.3879 - learning_rate: 1.0000e-04
+Epoch 1686/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5241 - mae: 0.7950 - val_loss: 5.1923 - val_mae: 1.4084 - learning_rate: 1.0000e-04
+Epoch 1687/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.4877 - mae: 0.7732 - val_loss: 5.2281 - val_mae: 1.4270 - learning_rate: 1.0000e-04
+Epoch 1688/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.7388 - mae: 0.8584 - val_loss: 5.1477 - val_mae: 1.3940 - learning_rate: 1.0000e-04
+Epoch 1689/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.4368 - mae: 0.7575 - val_loss: 5.1601 - val_mae: 1.4079 - learning_rate: 1.0000e-04
+Epoch 1690/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.6586 - mae: 0.8538 - val_loss: 5.1834 - val_mae: 1.4209 - learning_rate: 1.0000e-04
+Epoch 1691/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.6337 - mae: 0.8375 - val_loss: 5.1031 - val_mae: 1.3871 - learning_rate: 1.0000e-04
+Epoch 1692/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.4624 - mae: 0.7829 - val_loss: 5.1820 - val_mae: 1.3965 - learning_rate: 1.0000e-04
+Epoch 1693/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.4741 - mae: 0.7763 - val_loss: 5.3935 - val_mae: 1.4273 - learning_rate: 1.0000e-04
+Epoch 1694/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5622 - mae: 0.7908 - val_loss: 5.2146 - val_mae: 1.3986 - learning_rate: 1.0000e-04
+Epoch 1695/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5282 - mae: 0.8060 - val_loss: 5.1090 - val_mae: 1.3809 - learning_rate: 1.0000e-04
+Epoch 1696/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.4901 - mae: 0.7738 - val_loss: 5.2220 - val_mae: 1.4085 - learning_rate: 1.0000e-04
+Epoch 1697/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5043 - mae: 0.7909 - val_loss: 5.1475 - val_mae: 1.4023 - learning_rate: 1.0000e-04
+Epoch 1698/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5299 - mae: 0.7941 - val_loss: 5.1424 - val_mae: 1.3850 - learning_rate: 1.0000e-04
+Epoch 1699/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5793 - mae: 0.8143 - val_loss: 5.3501 - val_mae: 1.4267 - learning_rate: 1.0000e-04
+Epoch 1700/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.7434 - mae: 0.8732 - val_loss: 5.3210 - val_mae: 1.4251 - learning_rate: 1.0000e-04
+Epoch 1701/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5075 - mae: 0.7900 - val_loss: 5.2233 - val_mae: 1.4097 - learning_rate: 1.0000e-04
+Epoch 1702/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.4794 - mae: 0.7679 - val_loss: 5.1159 - val_mae: 1.3894 - learning_rate: 1.0000e-04
+Epoch 1703/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.4377 - mae: 0.7585 - val_loss: 5.1612 - val_mae: 1.4165 - learning_rate: 1.0000e-04
+Epoch 1704/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.6003 - mae: 0.8107 - val_loss: 5.0575 - val_mae: 1.3783 - learning_rate: 1.0000e-04
+Epoch 1705/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5389 - mae: 0.8109 - val_loss: 5.1195 - val_mae: 1.4046 - learning_rate: 1.0000e-04
+Epoch 1706/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5149 - mae: 0.8102 - val_loss: 5.0236 - val_mae: 1.3796 - learning_rate: 1.0000e-04
+Epoch 1707/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5571 - mae: 0.7942 - val_loss: 5.2580 - val_mae: 1.4010 - learning_rate: 1.0000e-04
+Epoch 1708/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5102 - mae: 0.7882 - val_loss: 5.1839 - val_mae: 1.3784 - learning_rate: 1.0000e-04
+Epoch 1709/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5297 - mae: 0.7882 - val_loss: 5.1899 - val_mae: 1.3859 - learning_rate: 1.0000e-04
+Epoch 1710/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.6412 - mae: 0.8423 - val_loss: 5.2691 - val_mae: 1.4065 - learning_rate: 1.0000e-04
+Epoch 1711/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.4471 - mae: 0.7714 - val_loss: 5.2025 - val_mae: 1.4288 - learning_rate: 1.0000e-04
+Epoch 1712/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.4934 - mae: 0.7871 - val_loss: 5.3196 - val_mae: 1.4310 - learning_rate: 1.0000e-04
+Epoch 1713/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 18ms/step - loss: 1.4679 - mae: 0.7655 - val_loss: 5.2572 - val_mae: 1.3984 - learning_rate: 1.0000e-04
+Epoch 1714/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.4461 - mae: 0.7729 - val_loss: 5.2497 - val_mae: 1.4055 - learning_rate: 1.0000e-04
+Epoch 1715/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5417 - mae: 0.7888 - val_loss: 5.0080 - val_mae: 1.3737 - learning_rate: 1.0000e-04
+Epoch 1716/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.4513 - mae: 0.7582 - val_loss: 5.1045 - val_mae: 1.4166 - learning_rate: 1.0000e-04
+Epoch 1717/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 20ms/step - loss: 1.6542 - mae: 0.8100 - val_loss: 5.1216 - val_mae: 1.4034 - learning_rate: 1.0000e-04
+Epoch 1718/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.4077 - mae: 0.7401 - val_loss: 5.2978 - val_mae: 1.4165 - learning_rate: 1.0000e-04
+Epoch 1719/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5963 - mae: 0.8066 - val_loss: 5.0339 - val_mae: 1.3995 - learning_rate: 1.0000e-04
+Epoch 1720/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5049 - mae: 0.7920 - val_loss: 5.1178 - val_mae: 1.3916 - learning_rate: 1.0000e-04
+Epoch 1721/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.6753 - mae: 0.8378 - val_loss: 4.9695 - val_mae: 1.3691 - learning_rate: 1.0000e-04
+Epoch 1722/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.4731 - mae: 0.7749 - val_loss: 5.2333 - val_mae: 1.4032 - learning_rate: 1.0000e-04
+Epoch 1723/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.3411 - mae: 0.7297 - val_loss: 5.2554 - val_mae: 1.3866 - learning_rate: 1.0000e-04
+Epoch 1724/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.6232 - mae: 0.8291 - val_loss: 5.1405 - val_mae: 1.4170 - learning_rate: 1.0000e-04
+Epoch 1725/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.6073 - mae: 0.8292 - val_loss: 4.9374 - val_mae: 1.3755 - learning_rate: 1.0000e-04
+Epoch 1726/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.4872 - mae: 0.7757 - val_loss: 5.1291 - val_mae: 1.3756 - learning_rate: 1.0000e-04
+Epoch 1727/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5225 - mae: 0.8152 - val_loss: 5.1325 - val_mae: 1.3984 - learning_rate: 1.0000e-04
+Epoch 1728/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5034 - mae: 0.8020 - val_loss: 5.0946 - val_mae: 1.3823 - learning_rate: 1.0000e-04
+Epoch 1729/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5798 - mae: 0.7923 - val_loss: 5.2924 - val_mae: 1.4269 - learning_rate: 1.0000e-04
+Epoch 1730/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.3586 - mae: 0.7119 - val_loss: 5.0281 - val_mae: 1.4003 - learning_rate: 1.0000e-04
+Epoch 1731/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.4435 - mae: 0.7542 - val_loss: 5.0886 - val_mae: 1.3979 - learning_rate: 1.0000e-04
+Epoch 1732/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5873 - mae: 0.7989 - val_loss: 5.1824 - val_mae: 1.3968 - learning_rate: 1.0000e-04
+Epoch 1733/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5104 - mae: 0.7806 - val_loss: 5.1149 - val_mae: 1.3925 - learning_rate: 1.0000e-04
+Epoch 1734/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.6113 - mae: 0.8151 - val_loss: 5.1661 - val_mae: 1.3870 - learning_rate: 1.0000e-04
+Epoch 1735/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.4111 - mae: 0.7452 - val_loss: 4.9787 - val_mae: 1.3800 - learning_rate: 1.0000e-04
+Epoch 1736/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.3965 - mae: 0.7539 - val_loss: 5.0639 - val_mae: 1.3853 - learning_rate: 1.0000e-04
+Epoch 1737/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5289 - mae: 0.7926 - val_loss: 4.9669 - val_mae: 1.3656 - learning_rate: 1.0000e-04
+Epoch 1738/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.6565 - mae: 0.8198 - val_loss: 5.1048 - val_mae: 1.4017 - learning_rate: 1.0000e-04
+Epoch 1739/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5852 - mae: 0.8264 - val_loss: 4.9809 - val_mae: 1.3776 - learning_rate: 1.0000e-04
+Epoch 1740/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5624 - mae: 0.7861 - val_loss: 5.0775 - val_mae: 1.4024 - learning_rate: 1.0000e-04
+Epoch 1741/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5593 - mae: 0.8102 - val_loss: 5.1908 - val_mae: 1.4195 - learning_rate: 1.0000e-04
+Epoch 1742/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5410 - mae: 0.8085 - val_loss: 4.9564 - val_mae: 1.3860 - learning_rate: 1.0000e-04
+Epoch 1743/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5304 - mae: 0.8116 - val_loss: 4.9504 - val_mae: 1.3772 - learning_rate: 1.0000e-04
+Epoch 1744/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 18ms/step - loss: 1.5146 - mae: 0.8029 - val_loss: 4.8816 - val_mae: 1.3593 - learning_rate: 1.0000e-04
+Epoch 1745/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5710 - mae: 0.8048 - val_loss: 5.0418 - val_mae: 1.3949 - learning_rate: 1.0000e-04
+Epoch 1746/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5152 - mae: 0.7795 - val_loss: 5.1883 - val_mae: 1.3964 - learning_rate: 1.0000e-04
+Epoch 1747/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5507 - mae: 0.7948 - val_loss: 5.0122 - val_mae: 1.3836 - learning_rate: 1.0000e-04
+Epoch 1748/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5553 - mae: 0.8017 - val_loss: 5.0309 - val_mae: 1.3996 - learning_rate: 1.0000e-04
+Epoch 1749/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.4217 - mae: 0.7822 - val_loss: 5.0339 - val_mae: 1.3772 - learning_rate: 1.0000e-04
+Epoch 1750/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5490 - mae: 0.8086 - val_loss: 5.0244 - val_mae: 1.3904 - learning_rate: 1.0000e-04
+Epoch 1751/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5284 - mae: 0.7869 - val_loss: 5.0758 - val_mae: 1.3940 - learning_rate: 1.0000e-04
+Epoch 1752/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.6247 - mae: 0.8278 - val_loss: 5.1129 - val_mae: 1.3914 - learning_rate: 1.0000e-04
+Epoch 1753/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5869 - mae: 0.8130 - val_loss: 5.0861 - val_mae: 1.3898 - learning_rate: 1.0000e-04
+Epoch 1754/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.6342 - mae: 0.8219 - val_loss: 5.0599 - val_mae: 1.3810 - learning_rate: 1.0000e-04
+Epoch 1755/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.4668 - mae: 0.7845 - val_loss: 5.0834 - val_mae: 1.3664 - learning_rate: 1.0000e-04
+Epoch 1756/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5491 - mae: 0.8102 - val_loss: 5.1513 - val_mae: 1.3935 - learning_rate: 1.0000e-04
+Epoch 1757/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.4641 - mae: 0.7580 - val_loss: 5.0235 - val_mae: 1.3833 - learning_rate: 1.0000e-04
+Epoch 1758/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5563 - mae: 0.7930 - val_loss: 5.2174 - val_mae: 1.4229 - learning_rate: 1.0000e-04
+Epoch 1759/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5853 - mae: 0.8214 - val_loss: 5.1255 - val_mae: 1.4044 - learning_rate: 1.0000e-04
+Epoch 1760/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5319 - mae: 0.8076 - val_loss: 5.0320 - val_mae: 1.3626 - learning_rate: 1.0000e-04
+Epoch 1761/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5754 - mae: 0.7968 - val_loss: 5.1129 - val_mae: 1.3987 - learning_rate: 1.0000e-04
+Epoch 1762/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5487 - mae: 0.8107 - val_loss: 4.9130 - val_mae: 1.3697 - learning_rate: 1.0000e-04
+Epoch 1763/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5410 - mae: 0.8009 - val_loss: 5.0010 - val_mae: 1.3807 - learning_rate: 1.0000e-04
+Epoch 1764/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.4952 - mae: 0.7584 - val_loss: 5.0750 - val_mae: 1.4191 - learning_rate: 1.0000e-04
+Epoch 1765/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5548 - mae: 0.8148 - val_loss: 5.1351 - val_mae: 1.3964 - learning_rate: 1.0000e-04
+Epoch 1766/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.6340 - mae: 0.8591 - val_loss: 5.0500 - val_mae: 1.3941 - learning_rate: 1.0000e-04
+Epoch 1767/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.4644 - mae: 0.7830 - val_loss: 5.2617 - val_mae: 1.4340 - learning_rate: 1.0000e-04
+Epoch 1768/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5884 - mae: 0.8197 - val_loss: 4.9912 - val_mae: 1.3916 - learning_rate: 1.0000e-04
+Epoch 1769/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.4086 - mae: 0.7444 - val_loss: 5.2884 - val_mae: 1.4228 - learning_rate: 1.0000e-04
+Epoch 1770/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5338 - mae: 0.7967 - val_loss: 5.1964 - val_mae: 1.4072 - learning_rate: 1.0000e-04
+Epoch 1771/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5077 - mae: 0.8153 - val_loss: 5.0917 - val_mae: 1.4188 - learning_rate: 1.0000e-04
+Epoch 1772/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.4180 - mae: 0.7487 - val_loss: 5.0537 - val_mae: 1.3949 - learning_rate: 1.0000e-04
+Epoch 1773/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5025 - mae: 0.7825 - val_loss: 5.1002 - val_mae: 1.4028 - learning_rate: 1.0000e-04
+Epoch 1774/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.6288 - mae: 0.8043 - val_loss: 5.2703 - val_mae: 1.4321 - learning_rate: 1.0000e-04
+Epoch 1775/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5482 - mae: 0.7968 - val_loss: 5.1577 - val_mae: 1.4117 - learning_rate: 1.0000e-04
+Epoch 1776/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5690 - mae: 0.8195 - val_loss: 5.3475 - val_mae: 1.4199 - learning_rate: 1.0000e-04
+Epoch 1777/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5482 - mae: 0.7885 - val_loss: 5.2062 - val_mae: 1.4169 - learning_rate: 1.0000e-04
+Epoch 1778/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5410 - mae: 0.8018 - val_loss: 5.0625 - val_mae: 1.4017 - learning_rate: 1.0000e-04
+Epoch 1779/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.7129 - mae: 0.8519 - val_loss: 5.1678 - val_mae: 1.4196 - learning_rate: 1.0000e-04
+Epoch 1780/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.4469 - mae: 0.7680 - val_loss: 5.1941 - val_mae: 1.3938 - learning_rate: 1.0000e-04
+Epoch 1781/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.6047 - mae: 0.8447 - val_loss: 5.1072 - val_mae: 1.3890 - learning_rate: 1.0000e-04
+Epoch 1782/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5878 - mae: 0.8052 - val_loss: 5.1336 - val_mae: 1.3910 - learning_rate: 1.0000e-04
+Epoch 1783/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5682 - mae: 0.8100 - val_loss: 5.1471 - val_mae: 1.3910 - learning_rate: 1.0000e-04
+Epoch 1784/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5543 - mae: 0.7952 - val_loss: 5.0898 - val_mae: 1.3958 - learning_rate: 1.0000e-04
+Epoch 1785/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5967 - mae: 0.8244 - val_loss: 5.1057 - val_mae: 1.3974 - learning_rate: 1.0000e-04
+Epoch 1786/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5291 - mae: 0.7965 - val_loss: 4.8804 - val_mae: 1.3798 - learning_rate: 1.0000e-04
+Epoch 1787/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.4729 - mae: 0.7550 - val_loss: 5.0491 - val_mae: 1.4101 - learning_rate: 1.0000e-04
+Epoch 1788/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.4923 - mae: 0.7818 - val_loss: 4.9913 - val_mae: 1.3799 - learning_rate: 1.0000e-04
+Epoch 1789/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5977 - mae: 0.8436 - val_loss: 4.9598 - val_mae: 1.3874 - learning_rate: 1.0000e-04
+Epoch 1790/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.8140 - mae: 0.8881 - val_loss: 5.0791 - val_mae: 1.3904 - learning_rate: 1.0000e-04
+Epoch 1791/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 18ms/step - loss: 1.5598 - mae: 0.8100 - val_loss: 4.9158 - val_mae: 1.3936 - learning_rate: 1.0000e-04
+Epoch 1792/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5432 - mae: 0.8099 - val_loss: 5.0883 - val_mae: 1.4057 - learning_rate: 1.0000e-04
+Epoch 1793/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.4575 - mae: 0.7724 - val_loss: 5.1431 - val_mae: 1.4122 - learning_rate: 1.0000e-04
+Epoch 1794/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5282 - mae: 0.7917 - val_loss: 5.0975 - val_mae: 1.3759 - learning_rate: 1.0000e-04
+Epoch 1795/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.3325 - mae: 0.7138 - val_loss: 5.0266 - val_mae: 1.3750 - learning_rate: 1.0000e-04
+Epoch 1796/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.4650 - mae: 0.7721 - val_loss: 5.0865 - val_mae: 1.3734 - learning_rate: 1.0000e-04
+Epoch 1797/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5898 - mae: 0.8001 - val_loss: 5.1493 - val_mae: 1.4161 - learning_rate: 1.0000e-04
+Epoch 1798/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5739 - mae: 0.8025 - val_loss: 5.1465 - val_mae: 1.4036 - learning_rate: 1.0000e-04
+Epoch 1799/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5697 - mae: 0.7906 - val_loss: 5.0798 - val_mae: 1.4079 - learning_rate: 1.0000e-04
+Epoch 1800/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.6067 - mae: 0.8303 - val_loss: 5.1275 - val_mae: 1.3994 - learning_rate: 1.0000e-04
+Epoch 1801/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5151 - mae: 0.7929 - val_loss: 4.9941 - val_mae: 1.3621 - learning_rate: 1.0000e-04
+Epoch 1802/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.3681 - mae: 0.7303 - val_loss: 5.0171 - val_mae: 1.3897 - learning_rate: 1.0000e-04
+Epoch 1803/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5049 - mae: 0.7898 - val_loss: 5.0233 - val_mae: 1.4154 - learning_rate: 1.0000e-04
+Epoch 1804/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.6014 - mae: 0.8194 - val_loss: 5.1122 - val_mae: 1.3972 - learning_rate: 1.0000e-04
+Epoch 1805/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5367 - mae: 0.8033 - val_loss: 5.1965 - val_mae: 1.4325 - learning_rate: 1.0000e-04
+Epoch 1806/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.4360 - mae: 0.7596 - val_loss: 5.0198 - val_mae: 1.3996 - learning_rate: 1.0000e-04
+Epoch 1807/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.4165 - mae: 0.7463 - val_loss: 5.0084 - val_mae: 1.3992 - learning_rate: 1.0000e-04
+Epoch 1808/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5783 - mae: 0.8133 - val_loss: 5.1906 - val_mae: 1.4207 - learning_rate: 1.0000e-04
+Epoch 1809/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.6295 - mae: 0.8266 - val_loss: 5.1974 - val_mae: 1.4213 - learning_rate: 1.0000e-04
+Epoch 1810/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5296 - mae: 0.7941 - val_loss: 5.1939 - val_mae: 1.4335 - learning_rate: 1.0000e-04
+Epoch 1811/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.6856 - mae: 0.8319 - val_loss: 5.1195 - val_mae: 1.4044 - learning_rate: 1.0000e-04
+Epoch 1812/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.4203 - mae: 0.7470 - val_loss: 5.2682 - val_mae: 1.4342 - learning_rate: 1.0000e-04
+Epoch 1813/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.4639 - mae: 0.7740 - val_loss: 5.2594 - val_mae: 1.4215 - learning_rate: 1.0000e-04
+Epoch 1814/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5927 - mae: 0.8091 - val_loss: 5.4248 - val_mae: 1.4298 - learning_rate: 1.0000e-04
+Epoch 1815/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.6176 - mae: 0.8352 - val_loss: 5.1124 - val_mae: 1.4044 - learning_rate: 1.0000e-04
+Epoch 1816/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.3363 - mae: 0.7341 - val_loss: 5.2401 - val_mae: 1.4037 - learning_rate: 1.0000e-04
+Epoch 1817/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.4621 - mae: 0.7695 - val_loss: 5.1767 - val_mae: 1.4278 - learning_rate: 1.0000e-04
+Epoch 1818/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.4633 - mae: 0.7732 - val_loss: 5.2245 - val_mae: 1.3996 - learning_rate: 1.0000e-04
+Epoch 1819/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.4851 - mae: 0.7837 - val_loss: 5.1716 - val_mae: 1.3642 - learning_rate: 1.0000e-04
+Epoch 1820/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5493 - mae: 0.7929 - val_loss: 5.2771 - val_mae: 1.4453 - learning_rate: 1.0000e-04
+Epoch 1821/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.7051 - mae: 0.8551 - val_loss: 5.2632 - val_mae: 1.4215 - learning_rate: 1.0000e-04
+Epoch 1822/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5168 - mae: 0.7958 - val_loss: 5.3003 - val_mae: 1.4346 - learning_rate: 1.0000e-04
+Epoch 1823/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5477 - mae: 0.8011 - val_loss: 5.1363 - val_mae: 1.3863 - learning_rate: 1.0000e-04
+Epoch 1824/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.4864 - mae: 0.7725 - val_loss: 5.2572 - val_mae: 1.3933 - learning_rate: 1.0000e-04
+Epoch 1825/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.4622 - mae: 0.7677 - val_loss: 5.2809 - val_mae: 1.3905 - learning_rate: 1.0000e-04
+Epoch 1826/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5925 - mae: 0.8106 - val_loss: 5.3000 - val_mae: 1.4302 - learning_rate: 1.0000e-04
+Epoch 1827/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5363 - mae: 0.8010 - val_loss: 5.1545 - val_mae: 1.3972 - learning_rate: 1.0000e-04
+Epoch 1828/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5266 - mae: 0.8144 - val_loss: 5.1702 - val_mae: 1.4116 - learning_rate: 1.0000e-04
+Epoch 1829/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.4554 - mae: 0.7580 - val_loss: 5.1412 - val_mae: 1.3927 - learning_rate: 1.0000e-04
+Epoch 1830/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.6118 - mae: 0.8340 - val_loss: 5.1673 - val_mae: 1.4052 - learning_rate: 1.0000e-04
+Epoch 1831/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5837 - mae: 0.8133 - val_loss: 5.0271 - val_mae: 1.3907 - learning_rate: 1.0000e-04
+Epoch 1832/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5294 - mae: 0.8139 - val_loss: 5.2083 - val_mae: 1.4104 - learning_rate: 1.0000e-04
+Epoch 1833/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.6106 - mae: 0.8255 - val_loss: 5.1700 - val_mae: 1.3859 - learning_rate: 1.0000e-04
+Epoch 1834/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.4934 - mae: 0.7751 - val_loss: 5.2224 - val_mae: 1.3864 - learning_rate: 1.0000e-04
+Epoch 1835/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5276 - mae: 0.7942 - val_loss: 5.0293 - val_mae: 1.3798 - learning_rate: 1.0000e-04
+Epoch 1836/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5782 - mae: 0.8163 - val_loss: 4.9066 - val_mae: 1.3485 - learning_rate: 1.0000e-04
+Epoch 1837/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5322 - mae: 0.8017 - val_loss: 5.1473 - val_mae: 1.4106 - learning_rate: 1.0000e-04
+Epoch 1838/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.4910 - mae: 0.7807 - val_loss: 5.1597 - val_mae: 1.4136 - learning_rate: 1.0000e-04
+Epoch 1839/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.6344 - mae: 0.8220 - val_loss: 5.0154 - val_mae: 1.4118 - learning_rate: 1.0000e-04
+Epoch 1840/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5918 - mae: 0.8219 - val_loss: 5.0383 - val_mae: 1.4272 - learning_rate: 1.0000e-04
+Epoch 1841/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5140 - mae: 0.7919 - val_loss: 5.0601 - val_mae: 1.3944 - learning_rate: 1.0000e-04
+Epoch 1842/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5615 - mae: 0.7984 - val_loss: 5.1196 - val_mae: 1.3990 - learning_rate: 1.0000e-04
+Epoch 1843/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5675 - mae: 0.8218 - val_loss: 5.1106 - val_mae: 1.3939 - learning_rate: 1.0000e-04
+Epoch 1844/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5544 - mae: 0.7936 - val_loss: 5.0429 - val_mae: 1.3880 - learning_rate: 1.0000e-04
+Epoch 1845/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5404 - mae: 0.8052 - val_loss: 4.9360 - val_mae: 1.3791 - learning_rate: 1.0000e-04
+Epoch 1846/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.4692 - mae: 0.7840 - val_loss: 5.1155 - val_mae: 1.4027 - learning_rate: 1.0000e-04
+Epoch 1847/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5272 - mae: 0.8005 - val_loss: 5.2214 - val_mae: 1.4154 - learning_rate: 1.0000e-04
+Epoch 1848/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5612 - mae: 0.8009 - val_loss: 5.0127 - val_mae: 1.3635 - learning_rate: 1.0000e-04
+Epoch 1849/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5503 - mae: 0.8025 - val_loss: 5.1455 - val_mae: 1.3926 - learning_rate: 1.0000e-04
+Epoch 1850/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.4891 - mae: 0.7613 - val_loss: 5.0474 - val_mae: 1.4295 - learning_rate: 1.0000e-04
+Epoch 1851/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5868 - mae: 0.8097 - val_loss: 5.0696 - val_mae: 1.3867 - learning_rate: 1.0000e-04
+Epoch 1852/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5123 - mae: 0.7803 - val_loss: 5.1162 - val_mae: 1.3672 - learning_rate: 1.0000e-04
+Epoch 1853/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.4068 - mae: 0.7472 - val_loss: 5.2773 - val_mae: 1.3994 - learning_rate: 1.0000e-04
+Epoch 1854/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5894 - mae: 0.8106 - val_loss: 5.2783 - val_mae: 1.4074 - learning_rate: 1.0000e-04
+Epoch 1855/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5036 - mae: 0.7966 - val_loss: 5.3255 - val_mae: 1.4284 - learning_rate: 1.0000e-04
+Epoch 1856/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.7137 - mae: 0.8674 - val_loss: 5.0924 - val_mae: 1.4071 - learning_rate: 1.0000e-04
+Epoch 1857/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.6848 - mae: 0.8469 - val_loss: 5.1116 - val_mae: 1.3863 - learning_rate: 1.0000e-04
+Epoch 1858/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.6443 - mae: 0.8495 - val_loss: 5.1374 - val_mae: 1.3813 - learning_rate: 1.0000e-04
+Epoch 1859/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.6582 - mae: 0.8450 - val_loss: 5.4249 - val_mae: 1.4394 - learning_rate: 1.0000e-04
+Epoch 1860/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.6631 - mae: 0.8413 - val_loss: 5.1346 - val_mae: 1.4161 - learning_rate: 1.0000e-04
+Epoch 1861/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5342 - mae: 0.7960 - val_loss: 5.1643 - val_mae: 1.3953 - learning_rate: 1.0000e-04
+Epoch 1862/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5542 - mae: 0.8067 - val_loss: 5.1678 - val_mae: 1.3989 - learning_rate: 1.0000e-04
+Epoch 1863/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5715 - mae: 0.7987 - val_loss: 5.0662 - val_mae: 1.3887 - learning_rate: 1.0000e-04
+Epoch 1864/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5465 - mae: 0.7858 - val_loss: 5.1765 - val_mae: 1.4109 - learning_rate: 1.0000e-04
+Epoch 1865/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5539 - mae: 0.8117 - val_loss: 5.4798 - val_mae: 1.4468 - learning_rate: 1.0000e-04
+Epoch 1866/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.6753 - mae: 0.8452 - val_loss: 5.1455 - val_mae: 1.3867 - learning_rate: 1.0000e-04
+Epoch 1867/3000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step - loss: 1.5834 - mae: 0.8180 - val_loss: 5.3493 - val_mae: 1.4027 - learning_rate: 1.0000e-04

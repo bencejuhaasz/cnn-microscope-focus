@@ -1,0 +1,5 @@
+Epoch 793/30000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 2s 27ms/step - loss: 1.8452 - mae: 0.8577 - val_loss: 4.8925 - val_mae: 1.2924 - learning_rate: 2.0972e-04
+Epoch 794/30000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 2s 27ms/step - loss: 1.7928 - mae: 0.8423 - val_loss: 4.5780 - val_mae: 1.2651 - learning_rate: 1.6777e-04
+Epoch 795/30000
