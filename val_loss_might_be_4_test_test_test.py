@@ -71,12 +71,12 @@ def build_model(input_shape):
     # First Convolutional Block
     x = Conv2D(32, (3, 3), activation='relu', kernel_regularizer=l2(0.001))(inputs)
     x = MaxPooling2D((2, 2))(x)
-    x = Dropout(0.2)(x)  # Dropout layer
+    x = Dropout(0.1)(x)  # Dropout layer
 
     # Second Convolutional Block
     x = Conv2D(64, (3, 3), activation='relu', kernel_regularizer=l2(0.001))(x)
     x = MaxPooling2D((2, 2))(x)
-    x = Dropout(0.4)(x)  # Dropout layer
+    x = Dropout(0.3)(x)  # Dropout layer
 
     # Third Convolutional Block
     x = Conv2D(128, (3, 3), activation='relu', kernel_regularizer=l2(0.001))(x)
