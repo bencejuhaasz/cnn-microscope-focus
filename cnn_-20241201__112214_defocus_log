@@ -1,0 +1,15 @@
+Epoch 21251/30000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 2s 27ms/step - loss: 1.0351 - mae: 0.6871 - val_loss: 4.8338 - val_mae: 1.4353 - learning_rate: 1.0000e-05
+Epoch 21252/30000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 2s 27ms/step - loss: 1.0047 - mae: 0.6833 - val_loss: 4.9030 - val_mae: 1.4420 - learning_rate: 1.0000e-05
+Epoch 21253/30000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 2s 27ms/step - loss: 0.9771 - mae: 0.6495 - val_loss: 4.8534 - val_mae: 1.4218 - learning_rate: 1.0000e-05
+Epoch 21254/30000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 2s 27ms/step - loss: 1.0351 - mae: 0.6768 - val_loss: 4.8439 - val_mae: 1.4277 - learning_rate: 1.0000e-05Epoch 21251/30000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 2s 27ms/step - loss: 1.0351 - mae: 0.6871 - val_loss: 4.8338 - val_mae: 1.4353 - learning_rate: 1.0000e-05
+Epoch 21252/30000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 2s 27ms/step - loss: 1.0047 - mae: 0.6833 - val_loss: 4.9030 - val_mae: 1.4420 - learning_rate: 1.0000e-05
+Epoch 21253/30000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 2s 27ms/step - loss: 0.9771 - mae: 0.6495 - val_loss: 4.8534 - val_mae: 1.4218 - learning_rate: 1.0000e-05
+Epoch 21254/30000
+60/60 ━━━━━━━━━━━━━━━━━━━━ 2s 27ms/step - loss: 1.0351 - mae: 0.6768 - val_loss: 4.8439 - val_mae: 1.4277 - learning_rate: 1.0000e-05

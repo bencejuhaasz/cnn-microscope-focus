@@ -94,7 +94,7 @@ def build_model(input_shape):
     # Compile Model
     model = Model(inputs, outputs)
     model.compile(
-        optimizer=Adam(learning_rate=0.0008),
+        optimizer=Adam(learning_rate=0.00085),
         loss='mse',
         metrics=['mae']
     )
